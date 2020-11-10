@@ -1,3 +1,0 @@
-<HTML>
-<H1>hIIIIIIIIII</H1>
-</HTML>
